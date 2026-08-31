@@ -251,6 +251,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Supadata](https://github.com/supadata-ai/mcp)** - Official MCP server for [Supadata](https://supadata.ai) - YouTube, TikTok, X and Web data for makers.
 - **[Square](https://github.com/square/square-mcp-server)** - A Model Context Protocol (MCP) server for square
 - **[StarRocks](https://github.com/StarRocks/mcp-server-starrocks)** - Interact with [StarRocks](https://www.starrocks.io/)
+- **[Stellary](https://github.com/Anymfah/stellary-mcp)** - Interact with boards, documents, cockpit, and governed agent missions in [Stellary](https://stellary.co), an AI-native project piloting platform. Hosted MCP at `https://api.stellary.co/mcp` (Streamable HTTP + Bearer PAT).
 - **[Stripe](https://github.com/stripe/agent-toolkit)** - Interact with Stripe API
 - **[TalentoHQ](https://hr.talentohq.com/mcp)** – Connect to the [TalentoHQ HR software](https://talentohq.com/features/mcp) via MCP. Transform your organization with the AI first HR software.
 - **[Taskade](https://github.com/taskade/mcp)** – Connect to the [Taskade platform](https://www.taskade.com/) via MCP. Access tasks, projects, workflows, and AI agents in real-time through a unified workspace and API.
